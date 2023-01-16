@@ -1,0 +1,9 @@
+//module.exports.host = 'smtp.gmail.com'   
+module.exports.SMTP_HOST='localhost' 
+module.exports.SMTP_SERVICE='gmail' 
+module.exports.SMTP_PORT=465 
+//module.exports.port = 25 
+module.exports.iSsecure=true
+module.exports.SENDER_EMAIL='alexroy010101@gmail.com'
+module.exports.EMAIL_PASSWORD='ktqvntxpmeswxflb'  // password of the email to use
+//module.exports.from = 'alexroy010101@gmail.com';

@@ -1,0 +1,19 @@
+{
+  "name": "nodemailertest",
+  "version": "1.0.0",
+  "description": "This is a test project, how to send mail using nodemailer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prarinam Deria",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.0",
+    "nodemailer-express-handlebars": "^6.0.0",
+    "nodemailer-handlebars": "^1.0.1",
+    "nodemon": "^2.0.20"
+  }
+}
